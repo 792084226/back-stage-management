@@ -68,7 +68,7 @@ export default {
 .wrapper {
   width: 500px;
   height: 300px;
-  border: 1px solid gray;
+  border: 1px solid rgb(146, 146, 146);
   margin: 100px auto;
   padding: 0 20px;
   box-sizing: border-box;
